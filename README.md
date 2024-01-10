@@ -1,6 +1,6 @@
 ![img](src/assets/screenshot.png)
 
-<a src='https://game-hub-xi-azure.vercel.app'><p align="center">Link to App</p></a>
+## ![text](https://game-hub-xi-azure.vercel.app)'><p align="center">Link to App</p>
 
 # Video Game Discovery Web App - Tools Used:
 
@@ -28,4 +28,4 @@
 - Game details page for more game details, photos
   and video teaser
 
-- Infinite scrolling
+- Infinite scrolling, responsive screen sizing
