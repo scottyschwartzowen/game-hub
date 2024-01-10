@@ -1,6 +1,6 @@
 ![img](src/assets/screenshot.png)
 
-![Link to App](https://game-hub-xi-azure.vercel.app)
+[Link to App](https://game-hub-xi-azure.vercel.app)
 
 # Video Game Discovery Web App - Tools Used:
 
