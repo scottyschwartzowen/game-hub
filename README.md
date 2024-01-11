@@ -4,9 +4,9 @@
 
 # Video Game Discovery Web App - Tools Used:
 
-- Created with Vite, coded in html/css/typescript/react
+- Created with Vite, coded in HTML / CSS / TS / REACT
 
-- RAWG API, React Query & Router, Zustand
+- RAWG API, React Query & Router, Axios, Zustand
 
 - Chakra UI library for certain component features
 
