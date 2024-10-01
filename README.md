@@ -6,6 +6,8 @@
 
 - Created with Vite, coded in HTML / CSS / TS / REACT
 
+- I developed this project following Mosh Hamedani's Int React w/ TypeScript course
+
 - RAWG API, React Query & Router, Axios, Zustand
 
 - Chakra UI library for certain component features
